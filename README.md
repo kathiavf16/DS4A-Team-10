@@ -1,5 +1,5 @@
 ## Correlation One Data Science 4 All Fellowship
-Names: Natalie Davis, Silas Humphries, Vianny Lugo Aracena, Mariana Martinez, Kathia Vargas 
+Members: Natalie Davis, Silas Humphries, Vianny Lugo Aracena, Mariana Martinez, Kathia Vargas 
 ## Project scope: DC, Washington 
 November 19th 2020 
 
