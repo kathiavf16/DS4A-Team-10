@@ -31,18 +31,18 @@ Food Access Research Atlas data (USDA)
 This file contains a total of 147 columns with county-level information. The data combines population data from the 2010 Census Population and Housing reported at the block level, and aggregated at the census tract level. It combines income data from the 2010-14 American Community Survey’s census  tracts estimates, and a directory of supermarkets, supercenters, and large grocery stores in the United States. 
 
 Some of the major variables/fields available in this dataset are:
-Pop2010 - population, tract total 
-Povertyrate - tract poverty rate
-Medianfamilyincome - tract median family income
-LA1and10, LAhalfand10, LA1and20, LATracts_half -- variables highlighting accessibility by vehicle
-Low access information by race and distance
-Racial breakdown 
-Age breakdown
+- Pop2010 - population, tract total 
+- Povertyrate - tract poverty rate
+- Medianfamilyincome - tract median family income
+- LA1and10, LAhalfand10, LA1and20, LATracts_half -- variables highlighting accessibility by vehicle
+- Low access information by race and distance
+- Racial breakdown 
+- Age breakdown
 
-## Google Maps API 
+### Google Maps API 
 We will be using Google Maps API to find the exact location of supermarkets in the DMV (DC, Maryland,Virginia)  area 
 
-Twitter API:  
+### Twitter API:  
 We will be using the Twitter API to predict Food Deserts Via Population Health and Twitter Sentiment Analysis using the following topics: healthy foods, unhealthy foods, fast foods, and grocery stores created.
 
 
