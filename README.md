@@ -86,41 +86,41 @@ Details
 Team Formation 
 Meet up
 ## Week 2
- Work on idea formation 
-Selected project topic on food deserts in  DC
+- Work on idea formation 
+- Selected project topic on food deserts in  DC
 ## Week 3
-Idea should be finalized & Start on Scoping
-Completed project description
+- Idea should be finalized & Start on Scoping
+- Completed project description
 ## Week 4
-Project Scoping Completed 
-Finalize and deliver the project scope 
+- Project Scoping Completed 
+- Finalize and deliver the project scope 
 ## Week 5
-Datasets sourced 
-Identify final datasets 
+- Datasets sourced 
+- Identify final datasets 
 ## Week 6
-Basic EDA/Cleaning of datasets completed 
-Process the data, initial data discovery and exploration individually and meet as a group to discuss findings 
-Meet with mentor to discuss direction of data possible analysis options
+- Basic EDA/Cleaning of datasets completed 
+- Process the data, initial data discovery and exploration individually and meet as a group to discuss findings 
+- Meet with mentor to discuss direction of data possible analysis options
 ## Week 7
-In-depth EDA, jupyter analysis, mockup of frontend
-Use jupyter notebooks to conduct appropriate statistical analysis 
-Finalize EDA and finalize possible analysis 
+- In-depth EDA, jupyter analysis, mockup of frontend
+- Use jupyter notebooks to conduct appropriate statistical analysis 
+- Finalize EDA and finalize possible analysis 
 ## Week 8
-Frontend Design 
-Create static maps and include appropriate analysis for a tier system
+- Frontend Design 
+- Create static maps and include appropriate analysis for a tier system
 ## Week 9
-Front End Complete
-Meet with mentor to get comments on analysis results and graphs/maps produced
-Create interactive maps with tier system 
+- Front End Complete
+- Meet with mentor to get comments on analysis results and graphs/maps produced
+- Create interactive maps with tier system 
 ## Week 10
-Application infrastructure complete
-Complete interactive map on a website 
+- Application infrastructure complete
+- Complete interactive map on a website 
 ## Week 11
-Project and Datafolio complete
-Meet with mentor to get final comments and implement comments
+- Project and Datafolio complete
+- Meet with mentor to get final comments and implement comments
 ## Week 12
-Presentation rehearsed and ready
-Get in Top 10 best projects
+- Presentation rehearsed and ready
+- Get in Top 10 best projects
 
 ## Concerns
 Not having sufficient data
