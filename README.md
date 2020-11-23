@@ -79,9 +79,9 @@ V4 (stretch goal): final interactive map, final versions of previously mentioned
 ## Timeline
 
 
-## Date
-## Deliverable
-## Details
+Date
+Deliverable
+Details
 ## Week 1
 Team Formation 
 Meet up
@@ -100,8 +100,8 @@ Identify final datasets
 ## Week 6
 Basic EDA/Cleaning of datasets completed 
 Process the data, initial data discovery and exploration individually and meet as a group to discuss findings 
-## Meet with mentor to discuss direction of data possible analysis options
-Week 7
+Meet with mentor to discuss direction of data possible analysis options
+## Week 7
 In-depth EDA, jupyter analysis, mockup of frontend
 Use jupyter notebooks to conduct appropriate statistical analysis 
 Finalize EDA and finalize possible analysis 
@@ -121,7 +121,6 @@ Meet with mentor to get final comments and implement comments
 ## Week 12
 Presentation rehearsed and ready
 Get in Top 10 best projects
-
 
 ## Concerns
 Not having sufficient data
